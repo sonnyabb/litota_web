@@ -1,0 +1,2207 @@
+/* header */
+
+.head {
+    width: 100vw;
+    height: 7vw;
+    background-color: #EFEDE5;
+    position: fixed;
+    z-index: 1;
+    font-family: "Fugue";
+}
+
+.logo {
+    width: 10vw;
+    height: 3vw;
+    position: relative;
+    top: 2vw;
+    left: 4vw;
+}
+
+.about {
+    font-size: 1.5vw;
+    position: fixed;
+    left: 33vw;
+    top: 3vw;
+    color: #216037;
+}
+
+.shop {
+    font-size: 1.5vw;
+    position: fixed;
+    left: 47vw;
+    top: 3vw;
+    color: #216037;
+}
+
+.act {
+    font-size: 1.5vw;
+    position: fixed;
+    left: 60vw;
+    top: 3vw;
+    color: #216037;
+}
+
+.book {
+    font-size: 1.5vw;
+    position: fixed;
+    left: 78vw;
+    top: 3vw;
+    color: #216037;
+}
+
+.burg {
+    width: 3vw;
+    height: 3vw;
+    position: fixed;
+    left: 94vw;
+    top: 2vw;
+}
+
+.contacts {
+    position: relative;
+    top: 4vw;
+    left: 75vw;
+    text-align: right;
+    display: none;
+    width: 21vw;
+    height: 11.5vw;
+    border-radius: 3vw;
+    border: 0.4vw solid #C2D59D;
+    background-color: #EFEDE5;
+    font-family: "Fugue";
+    font-size: 1.5vw
+}
+
+.maill {
+    color: #216037;
+    position: relative;
+    top: 2vw;
+    right: 2vw;
+}
+
+.phonee {
+    color: #216037;
+    position: relative;
+    top: 1.5vw;
+    right: 2vw;
+}
+
+.geoo {
+    color: #216037;
+    position: relative;
+    top: 0.7vw;
+    right: 2vw;
+}
+
+.nu1 {
+    width: 2.5vw;
+    height: 1.7vw;
+    position: relative;
+    right: 17vw;
+    top: 0.5vw;
+}
+
+.nu2 {
+    width: 2vw;
+    height: 2vw;
+    position: relative;
+    right: 17vw;
+    top: -0.5vw;
+}
+
+.nu3 {
+    width: 2vw;
+    height: 2.5vw;
+    position: relative;
+    right: 17vw;
+    top: -1.3vw;
+}
+
+a {
+    text-decoration: none;
+    color: var(--black);
+}
+
+
+/* index */
+
+#index {
+    width: 100vw;
+    height: 71vw;
+    overflow-x: hidden;
+    display: block;
+    background-color: #EFEDE5;
+    font-family: "Fugue";
+}
+
+.m1 {
+    width: 93vw;
+    height: 38vw;
+    position: relative;
+    top: 8vw;
+    left: 3vw;
+}
+
+#hello {
+    font-size: 2vw;
+    position: absolute;
+    top: 50vw;
+    left: 3vw;
+    color: #216037;
+}
+
+.go {
+    display: block;
+    width: 69vw;
+    height: 10vw;
+    background-color: #C2D59D;
+    border-radius: 3vw;
+    position: relative;
+    top: 10vw;
+    left: 27vw;
+}
+
+.go1 {
+    width: 3vw;
+    height: 5vw;
+    position: relative;
+    top: 0vw;
+    left: 65vw;
+    z-index: 1;
+}
+
+.go p {
+    font-size: 2.5vw;
+    position: relative;
+    top: 3.5vw;
+    left: 39vw;
+    color: #EFEDE5;
+}
+
+
+/* rooms */
+
+#rooms {
+    width: 100vw;
+    height: 240vw;
+    overflow-x: hidden;
+    display: block;
+    background-color: #EFEDE5;
+    font-family: "Fugue";
+}
+
+.cntnr {
+    width: 93vw;
+    height: 29vw;
+    background-color: #EFEDE5;
+    display: block;
+    border: 0.4vw solid #C2D59D;
+    border-radius: 3vw;
+    text-align: right;
+}
+
+
+.tulipr {
+    width: 93vw;
+    height: 38vw;
+    position: relative;
+    top: 1vw;
+    left: 0vw;
+    color: #216037;
+}
+
+#tul {
+    width: 45vw;
+    height: 37vw;
+    position: relative;
+    bottom: -0.5vw;
+    left: 6vw;
+}
+
+#tulipp {
+    position: absolute;
+    top: 8vw;
+    left: 3vw;
+}
+
+.cntnr h2 {
+    font-size: 5vw;
+}
+
+.cntnr p {
+    font-size: 1.5vw;
+}
+
+.cntnr h3 {
+    font-size: 2.5vw;
+}
+
+#tulipp h2 {
+    position: relative;
+    top: 3vw;
+    right: 3vw;
+}
+
+#bedtul {
+    position: relative;
+    top: 4vw;
+    right: 3vw;
+}
+
+#guetul {
+    position: relative;
+    top: 5vw;
+    right: 3vw;
+}
+
+#livtul {
+    position: relative;
+    top: 6vw;
+    right: 3vw;
+}
+
+#neartul {
+    position: relative;
+    top: 7vw;
+    right: 3vw;
+}
+
+#pricetul {
+    position: relative;
+    top: 11vw;
+    right: 8vw;
+}
+
+#imprtul {
+    position: relative;
+    top: 8vw;
+    right: 3vw;
+    width: 3vw;
+    height: 3vw;
+}
+
+/* lotos */
+
+.lotosr {
+    width: 93vw;
+    height: 38vw;
+    position: relative;
+    top: 1vw;
+    left: 0vw;
+    color: #216037;
+}
+
+#lot {
+    width: 45vw;
+    height: 37vw;
+    position: relative;
+    bottom: -0.5vw;
+    left: 6vw;
+}
+
+#lotoss {
+    position: absolute;
+    top: 8vw;
+    left: 3vw;
+}
+
+#lotoss h2 {
+    position: relative;
+    top: 3vw;
+    right: 3vw;
+}
+
+#bedlot {
+    position: relative;
+    top: 4vw;
+    right: 3vw;
+}
+
+#soflot {
+    position: relative;
+    top: 5vw;
+    right: 3vw;
+}
+
+#guelot {
+    position: relative;
+    top: 6vw;
+    right: 3vw;
+}
+
+#nearlot {
+    position: relative;
+    top: 7vw;
+    right: 3vw;
+}
+
+#pricelot {
+    position: relative;
+    top: 11vw;
+    right: 8vw;
+}
+
+#imprlot {
+    position: relative;
+    top: 8vw;
+    right: 3vw;
+    width: 3vw;
+    height: 3vw;
+}
+
+/* fialka */
+
+.fialkar {
+    width: 93vw;
+    height: 38vw;
+    position: relative;
+    top: 1vw;
+    left: 0vw;
+    color: #216037;
+}
+
+#fial {
+    width: 45vw;
+    height: 37vw;
+    position: relative;
+    bottom: -0.5vw;
+    left: 6vw;
+}
+
+#fiall {
+    position: absolute;
+    top: 8vw;
+    left: 3vw;
+}
+
+#fiall h2 {
+    position: relative;
+    top: 3vw;
+    right: 3vw;
+}
+
+#bedfial {
+    position: relative;
+    top: 4vw;
+    right: 3vw;
+}
+
+#guefial {
+    position: relative;
+    top: 5vw;
+    right: 3vw;
+}
+
+#livfial {
+    position: relative;
+    top: 6vw;
+    right: 3vw;
+}
+
+#winfial {
+    position: relative;
+    top: 7vw;
+    right: 3vw;
+}
+
+#pricefial{
+    position: relative;
+    top: 11vw;
+    right: 8vw;
+}
+
+#imprfial {
+    position: relative;
+    top: 8vw;
+    right: 3vw;
+    width: 3vw;
+    height: 3vw;
+}
+
+/* rosa */
+
+.rosar {
+    width: 93vw;
+    height: 38vw;
+    position: relative;
+    top: 1vw;
+    left: 0vw;
+    color: #216037;
+}
+
+#rosa {
+    width: 40vw;
+    height: 36vw;
+    position: relative;
+    bottom: -1.3vw;
+    left: 8vw;
+}
+
+#rosaa {
+    position: absolute;
+    top: 8vw;
+    left: 3vw;
+}
+
+#rosaa h2 {
+    position: relative;
+    top: 3vw;
+    right: 3vw;
+}
+
+#bedro {
+    position: relative;
+    top: 4vw;
+    right: 3vw;
+}
+
+#guero {
+    position: relative;
+    top: 5vw;
+    right: 3vw;
+}
+
+#roomro {
+    position: relative;
+    top: 6vw;
+    right: 3vw;
+}
+
+#pricero {
+    position: relative;
+    top: 11vw;
+    right: 8vw;
+}
+
+#imprro {
+    position: relative;
+    top: 8vw;
+    right: 3vw;
+    width: 3vw;
+    height: 3vw;
+}
+
+/* lily */
+
+.lilyr {
+    width: 93vw;
+    height: 38vw;
+    position: relative;
+    top: 1vw;
+    left: 0vw;
+    color: #216037;
+}
+
+#lily {
+    width: 40vw;
+    height: 36vw;
+    position: relative;
+    bottom: -1.3vw;
+    left: 8vw;
+}
+
+#lilyy {
+    position: absolute;
+    top: 8vw;
+    left: 3vw;
+}
+
+#lilyy h2 {
+    position: relative;
+    top: 3vw;
+    right: 3vw;
+}
+
+#bedli {
+    position: relative;
+    top: 4vw;
+    right: 3vw;
+}
+
+#gueli {
+    position: relative;
+    top: 5vw;
+    right: 3vw;
+}
+
+#livli {
+    position: relative;
+    top: 6vw;
+    right: 3vw;
+}
+
+#nearli {
+    position: relative;
+    top: 7vw;
+    right: 3vw;
+}
+
+#priceli {
+    position: relative;
+    top: 11vw;
+    right: 8vw;
+}
+
+#imprli {
+    position: relative;
+    top: 8vw;
+    right: 3vw;
+    width: 3vw;
+    height: 3vw;
+}
+
+/* twin */
+
+.twinr {
+    width: 93vw;
+    height: 38vw;
+    position: relative;
+    top: 1vw;
+    left: 0vw;
+    color: #216037;
+}
+
+#twin {
+    width: 40vw;
+    height: 36vw;
+    position: relative;
+    bottom: -1.3vw;
+    left: 8vw;
+}
+
+#twinn {
+    position: absolute;
+    top: 8vw;
+    left: 3vw;
+}
+
+#twinn h2 {
+    position: relative;
+    top: 3vw;
+    right: 3vw;
+}
+
+#bedtw {
+    position: relative;
+    top: 4vw;
+    right: 3vw;
+}
+
+#bedsmtw {
+    position: relative;
+    top: 5vw;
+    right: 3vw;
+}
+
+#guetw {
+    position: relative;
+    top: 6vw;
+    right: 3vw;
+}
+
+#famtw {
+    position: relative;
+    top: 7vw;
+    right: 3vw;
+}
+
+#pricetw {
+    position: relative;
+    top: 11vw;
+    right: 8vw;
+}
+
+#imprtw {
+    position: relative;
+    top: 8vw;
+    right: 3vw;
+    width: 3vw;
+    height: 3vw;
+}
+
+/* room pages */
+
+.room {
+    width: 100vw;
+    height: 71vw;
+    overflow-x: hidden;
+    display: block;
+    background-color: #EFEDE5;
+    font-family: "Fugue";
+}
+
+.start {
+    width: 77vw;
+    height: 77w;
+    display: block;
+    position: relative;
+    top: 8vw;
+    left: 3vw;
+}
+
+.line {
+    width: 18vw;
+    height: 5vw;
+    position: relative;
+    top: auto;
+    left: auto;
+}
+
+.start h1 {
+    font-size: 3vw;
+    position: absolute;
+    top: 1.5vw;
+    left: 3vw;
+    color: #216037;
+}
+
+/* Тюльпан */
+
+.tulroom {
+    width: 77vw;
+    height: 77vw;
+    position: relative;
+    bottom: 18vw;
+    left: 1vw;
+}
+
+
+.room1 {
+    display: block;
+    width: 28vw;
+    height: 42vw;
+    position: absolute;
+    top: 10vw;
+    left: 67vw;
+    background-color: #EFEDE5;
+    border: 0.4vw solid #C2D59D;
+    border-radius: 3vw;
+}
+
+
+.r1 {
+    position: relative;
+    top: 2vw;
+    left: 2vw;
+    font-size: 1.5vw;
+    color: #216037;
+    line-height: 2vw;
+}
+
+.line1 {
+    width:23vw;
+    position: relative;
+    top: 8vw;
+    left: 2.5vw;
+}
+
+.char1 {
+    font-size: 1.5vw;
+    position: relative;
+    top: 10vw;
+    color: #216037;
+    left: 2vw;
+}
+
+.char2 {
+    font-size: 1.5vw;
+    position: relative;
+    top: 10.5vw;
+    color: #216037;
+    left: 2vw;
+}
+
+.char3 {
+    font-size: 1.5vw;
+    position: relative;
+    top: 11vw;
+    color: #216037;
+    left: 2vw;
+}
+
+.char4 {
+    font-size: 1.5vw;
+    position: relative;
+    top: 11.5vw;
+    color: #216037;
+    left: 2vw;
+}
+
+.room1 h2 {
+    position: relative;
+    top: 18vw;
+    left: 2vw;
+    font-size: 2.5vw;
+    color: #216037;
+}
+
+.price1 {
+    width: 3vw;
+    height: 3vw;
+    position: relative;
+    top: 15vw;
+    left: 23.5vw;
+}
+
+.revtul {
+    width: 59vw;
+    height: 12vw;
+    position: relative;
+    left: 4vw; 
+    bottom: 26vw;
+}
+
+.revtul h3 {
+    font-size: 2.5vw;
+    color: #216037;
+    position: relative;
+}
+
+.startul {
+    width: 3vw;
+    height: 3vw;
+    position: relative;
+    top: -2.7vw;
+    left: 2vw;
+}
+
+.namerev {
+    position: relative;
+    left: 6vw;
+    top: -5.5vw;
+}
+
+.revline {
+    position: relative;
+    top: -4vw;
+}
+
+.rev1 {
+    font-size: 1.5vw;
+    color: #216037;
+    position: relative;
+    top: -3vw;
+    line-height: 2vw;
+}
+
+.book1 {
+    font-family: "Fugue";
+    width: 28vw;
+    height: 12vw;
+    border-style: solid;
+    border-radius: 3vw;
+    border-color: #C2D59D;
+    outline: none;
+    background-color: #C2D59D;
+    color: #216037;
+    font-size: 2.5vw;
+    position: relative;
+    left: 67vw;
+    top: -37vw;
+}
+
+/* лотос */
+
+.lotroom {
+    width: 63vw;
+    height: 56vw;
+    position: relative;
+    bottom: 10vw;
+    left: 1vw;
+}
+
+.room2 {
+    display: block;
+    width: 28vw;
+    height: 42vw;
+    position: absolute;
+    top: 11vw;
+    left: 67vw;
+    background-color: #EFEDE5;
+    border: 0.4vw solid #C2D59D;
+    border-radius: 3vw;
+}
+
+.r2 {
+    position: relative;
+    top: 2vw;
+    left: 2vw;
+    font-size: 1.5vw;
+    color: #216037;
+    line-height: 2vw;
+}
+
+.line2 {
+    width:23vw;
+    position: relative;
+    top: 4vw;
+    left: 2.5vw;
+}
+
+.char1l {
+    font-size: 1.5vw;
+    position: relative;
+    top: 6vw;
+    color: #216037;
+    left: 2vw;
+}
+
+.char2l {
+    font-size: 1.5vw;
+    position: relative;
+    top: 6.5vw;
+    color: #216037;
+    left: 2vw;
+}
+
+.char3l {
+    font-size: 1.5vw;
+    position: relative;
+    top: 7vw;
+    color: #216037;
+    left: 2vw;
+}
+
+.char4l {
+    font-size: 1.5vw;
+    position: relative;
+    top: 7.5vw;
+    color: #216037;
+    left: 2vw;
+}
+
+.room2 h2 {
+    position: relative;
+    top: 14vw;
+    left: 2vw;
+    font-size: 2.5vw;
+    color: #216037;
+}
+
+.price2 {
+    width: 3vw;
+    height: 3vw;
+    position: relative;
+    top: 11vw;
+    left: 23.5vw;
+}
+
+.revlot {
+    width: 59vw;
+    height: 12vw;
+    position: relative;
+    left: 4vw; 
+    bottom: 4vw;
+}
+
+.revlot h3 {
+    font-size: 2.5vw;
+    color: #216037;
+    position: relative;
+}
+
+.starlot {
+    width: 3vw;
+    height: 3vw;
+    position: relative;
+    top: -2.7vw;
+    left: 2vw;
+}
+
+.namerevl {
+    position: relative;
+    left: 6vw;
+    top: -5.5vw;
+}
+
+.revlinel {
+    position: relative;
+    top: -4vw;
+}
+
+.rev2 {
+    font-size: 1.5vw;
+    color: #216037;
+    position: relative;
+    top: -3vw;
+    line-height: 2vw;
+}
+
+.book2 {
+    font-family: "Fugue";
+    width: 28vw;
+    height: 12vw;
+    border-style: solid;
+    border-radius: 3vw;
+    border-color: #C2D59D;
+    outline: none;
+    background-color: #C2D59D;
+    color: #216037;
+    font-size: 2.5vw;
+    position: relative;
+    left: 67vw;
+    top: -15vw;
+}
+
+/* фиалка */
+
+.fiaroom {
+    width: 67vw;
+    height: 62vw;
+    position: relative;
+    bottom: 8vw;
+    left: 1vw;
+}
+
+.room3 {
+    display: block;
+    width: 28vw;
+    height: 42vw;
+    position: absolute;
+    top: 13vw;
+    left: 67vw;
+    background-color: #EFEDE5;
+    border: 0.4vw solid #C2D59D;
+    border-radius: 3vw;
+}
+
+.r3 {
+    position: relative;
+    top: 2vw;
+    left: 2vw;
+    font-size: 1.5vw;
+    color: #216037;
+    line-height: 2vw;
+}
+
+.line3 {
+    width:23vw;
+    position: relative;
+    top: 4vw;
+    left: 2.5vw;
+}
+
+.char1f {
+    font-size: 1.5vw;
+    position: relative;
+    top: 6vw;
+    color: #216037;
+    left: 2vw;
+}
+
+.char2f {
+    font-size: 1.5vw;
+    position: relative;
+    top: 6.5vw;
+    color: #216037;
+    left: 2vw;
+}
+
+.char3f {
+    font-size: 1.5vw;
+    position: relative;
+    top: 7vw;
+    color: #216037;
+    left: 2vw;
+}
+
+.char4f {
+    font-size: 1.5vw;
+    position: relative;
+    top: 7.5vw;
+    color: #216037;
+    left: 2vw;
+}
+
+.room3 h2 {
+    position: relative;
+    top: 14vw;
+    left: 2vw;
+    font-size: 2.5vw;
+    color: #216037;
+}
+
+.price3 {
+    width: 3vw;
+    height: 3vw;
+    position: relative;
+    top: 11vw;
+    left: 23.5vw;
+}
+
+.revfia {
+    width: 59vw;
+    height: 12vw;
+    position: relative;
+    left: 4vw; 
+    bottom: 9vw;
+}
+
+.revfia h3 {
+    font-size: 2.5vw;
+    color: #216037;
+    position: relative;
+}
+
+.starfia {
+    width: 3vw;
+    height: 3vw;
+    position: relative;
+    top: -2.7vw;
+    left: 2vw;
+}
+
+.namerevf {
+    position: relative;
+    left: 6vw;
+    top: -5.5vw;
+}
+
+.revlinef {
+    position: relative;
+    top: -4vw;
+}
+
+.rev3 {
+    font-size: 1.5vw;
+    color: #216037;
+    position: relative;
+    top: -3vw;
+    line-height: 2vw;
+}
+
+.book3 {
+    font-family: "Fugue";
+    width: 28vw;
+    height: 12vw;
+    border-style: solid;
+    border-radius: 3vw;
+    border-color: #C2D59D;
+    outline: none;
+    background-color: #C2D59D;
+    color: #216037;
+    font-size: 2.5vw;
+    position: relative;
+    left: 67vw;
+    top: -20vw;
+}
+
+/* роса */
+
+.rosaroom {
+    width: 61vw;
+    height: 53vw;
+    position: relative;
+    bottom: 8vw;
+    left: 1vw;
+}
+
+.room4 {
+    display: block;
+    width: 28vw;
+    height: 42vw;
+    position: absolute;
+    top: 11vw;
+    left: 67vw;
+    background-color: #EFEDE5;
+    border: 0.4vw solid #C2D59D;
+    border-radius: 3vw;
+}
+
+.r4 {
+    position: relative;
+    top: 2vw;
+    left: 2vw;
+    font-size: 1.5vw;
+    color: #216037;
+    line-height: 2vw;
+}
+
+.line4 {
+    width:23vw;
+    position: relative;
+    top: 4vw;
+    left: 2.5vw;
+}
+
+.char1r {
+    font-size: 1.5vw;
+    position: relative;
+    top: 6vw;
+    color: #216037;
+    left: 2vw;
+}
+
+.char2r {
+    font-size: 1.5vw;
+    position: relative;
+    top: 6.5vw;
+    color: #216037;
+    left: 2vw;
+}
+
+#roomro1 {
+    font-size: 1.5vw;
+    position: relative;
+    top: 7vw;
+    color: #216037;
+    left: 2vw;
+}
+
+
+.room4 h2 {
+    position: relative;
+    top: 12vw;
+    left: 2vw;
+    font-size: 2.5vw;
+    color: #216037;
+}
+
+.price4 {
+    width: 3vw;
+    height: 3vw;
+    position: relative;
+    top: 9vw;
+    left: 23.5vw;
+}
+
+.revro {
+    width: 59vw;
+    height: 12vw;
+    position: relative;
+    left: 4vw; 
+    bottom: 2vw;
+}
+
+.revro h3 {
+    font-size: 2.5vw;
+    color: #216037;
+    position: relative;
+}
+
+.starro {
+    width: 3vw;
+    height: 3vw;
+    position: relative;
+    top: -2.7vw;
+    left: 2vw;
+}
+
+.namerevr {
+    position: relative;
+    left: 6vw;
+    top: -5.5vw;
+}
+
+.revliner {
+    position: relative;
+    top: -4vw;
+}
+
+.rev4 {
+    font-size: 1.5vw;
+    color: #216037;
+    position: relative;
+    top: -3vw;
+    line-height: 2vw;
+}
+
+.book4 {
+    font-family: "Fugue";
+    width: 28vw;
+    height: 12vw;
+    border-style: solid;
+    border-radius: 3vw;
+    border-color: #C2D59D;
+    outline: none;
+    background-color: #C2D59D;
+    color: #216037;
+    font-size: 2.5vw;
+    position: relative;
+    left: 67vw;
+    top: -13vw;
+}
+
+/* лилия */
+
+.lilyroom {
+    width: 64vw;
+    height: 55vw;
+    position: relative;
+    bottom: 8vw;
+    left: 1vw;
+}
+
+.room5 {
+    display: block;
+    width: 28vw;
+    height: 42vw;
+    position: absolute;
+    top: 11vw;
+    left: 67vw;
+    background-color: #EFEDE5;
+    border: 0.4vw solid #C2D59D;
+    border-radius: 3vw;
+}
+
+.r5 {
+    position: relative;
+    top: 2vw;
+    left: 2vw;
+    font-size: 1.5vw;
+    color: #216037;
+    line-height: 2vw;
+}
+
+.line5 {
+    width:23vw;
+    position: relative;
+    top: 4vw;
+    left: 2.5vw;
+}
+
+.char1li {
+    font-size: 1.5vw;
+    position: relative;
+    top: 6vw;
+    color: #216037;
+    left: 2vw;
+}
+
+.char2li {
+    font-size: 1.5vw;
+    position: relative;
+    top: 6.5vw;
+    color: #216037;
+    left: 2vw;
+}
+
+.char3li {
+    font-size: 1.5vw;
+    position: relative;
+    top: 7vw;
+    color: #216037;
+    left: 2vw;
+}
+
+.char4li {
+    font-size: 1.5vw;
+    position: relative;
+    top: 7.5vw;
+    color: #216037;
+    left: 2vw;
+}
+
+.room5 h2 {
+    position: relative;
+    top: 12vw;
+    left: 2vw;
+    font-size: 2.5vw;
+    color: #216037;
+}
+
+.price5 {
+    width: 3vw;
+    height: 3vw;
+    position: relative;
+    top: 9vw;
+    left: 23.5vw;
+}
+
+.revli {
+    width: 59vw;
+    height: 12vw;
+    position: relative;
+    left: 4vw; 
+    bottom: 3vw;
+}
+
+.revli h3 {
+    font-size: 2.5vw;
+    color: #216037;
+    position: relative;
+}
+
+.starli {
+    width: 3vw;
+    height: 3vw;
+    position: relative;
+    top: -2.7vw;
+    left: 2vw;
+}
+
+.namerevli {
+    position: relative;
+    left: 6vw;
+    top: -5.5vw;
+}
+
+.revlineli {
+    position: relative;
+    top: -4vw;
+}
+
+.rev5 {
+    font-size: 1.5vw;
+    color: #216037;
+    position: relative;
+    top: -3vw;
+    line-height: 2vw;
+}
+
+.book5 {
+    font-family: "Fugue";
+    width: 28vw;
+    height: 12vw;
+    border-style: solid;
+    border-radius: 3vw;
+    border-color: #C2D59D;
+    outline: none;
+    background-color: #C2D59D;
+    color: #216037;
+    font-size: 2.5vw;
+    position: relative;
+    left: 67vw;
+    top: -14vw;
+}
+
+/* лилия */
+
+.twinroom {
+    width: 64vw;
+    height: 60vw;
+    position: relative;
+    top: -11vw;
+    left: 1vw;
+}
+
+.room6 {
+    display: block;
+    width: 28vw;
+    height: 42vw;
+    position: absolute;
+    top: 13vw;
+    left: 67vw;
+    background-color: #EFEDE5;
+    border: 0.4vw solid #C2D59D;
+    border-radius: 3vw;
+}
+
+.r6 {
+    position: relative;
+    top: 2vw;
+    left: 2vw;
+    font-size: 1.5vw;
+    color: #216037;
+    line-height: 2vw;
+}
+
+.line6 {
+    width:23vw;
+    position: relative;
+    top: 4vw;
+    left: 2.5vw;
+}
+
+.char1t {
+    font-size: 1.5vw;
+    position: relative;
+    top: 6vw;
+    color: #216037;
+    left: 2vw;
+}
+
+.char2t {
+    font-size: 1.5vw;
+    position: relative;
+    top: 6.5vw;
+    color: #216037;
+    left: 2vw;
+}
+
+.char3t {
+    font-size: 1.5vw;
+    position: relative;
+    top: 7vw;
+    color: #216037;
+    left: 2vw;
+}
+
+.char4t {
+    font-size: 1.5vw;
+    position: relative;
+    top: 7.5vw;
+    color: #216037;
+    left: 2vw;
+}
+
+.room6 h2 {
+    position: relative;
+    top: 12vw;
+    left: 2vw;
+    font-size: 2.5vw;
+    color: #216037;
+}
+
+.price6 {
+    width: 3vw;
+    height: 3vw;
+    position: relative;
+    top: 9vw;
+    left: 23.5vw;
+}
+
+.revtwin {
+    width: 59vw;
+    height: 12vw;
+    position: relative;
+    left: 4vw; 
+    top: -8vw;
+}
+
+.revtwin h3 {
+    font-size: 2.5vw;
+    color: #216037;
+    position: relative;
+}
+
+.startw {
+    width: 3vw;
+    height: 3vw;
+    position: relative;
+    top: -2.7vw;
+    left: 2vw;
+}
+
+.namerevt {
+    position: relative;
+    left: 6vw;
+    top: -5.5vw;
+}
+
+.revlinet {
+    position: relative;
+    top: -4vw;
+}
+
+.rev6 {
+    font-size: 1.5vw;
+    color: #216037;
+    position: relative;
+    top: -3vw;
+    line-height: 2vw;
+}
+
+.book6 {
+    font-family: "Fugue";
+    width: 28vw;
+    height: 12vw;
+    border-style: solid;
+    border-radius: 3vw;
+    border-color: #C2D59D;
+    outline: none;
+    background-color: #C2D59D;
+    color: #216037;
+    font-size: 2.5vw;
+    position: relative;
+    left: 67vw;
+    top: -19vw;
+}
+
+/* about */
+
+#about {
+    width: 102vw;
+    height: 121vw;
+    overflow-x: hidden;
+    display: block;
+    background-color: #EFEDE5;
+    font-family: "Fugue";
+}
+
+.ab1 {
+    display: block;
+    width: 100vw;
+    height: 7vw;
+    position: relative;
+    top: 7vw;
+    background-color: #C2D59D;
+}
+
+.ab1 h1 {
+    font-size: 3.5vw;
+    position: relative;
+    top: 1.5vw;
+    left: 5vw;
+    color: #216037;
+}
+
+.ab2 {
+    width: 93vw;
+    height: 41vw;
+    position: relative;
+    top: 1vw;
+    left: 3vw;
+}
+
+.liab1 {
+    width: 7vw;
+    height: 17vw;
+    rotate: 270deg;
+    position: relative;
+    top: 3vw;
+    left: 6vw;
+}
+
+.first {
+    font-size: 1.5vw;
+    color: #216037;
+    position: relative;
+    top: -7vw;
+    left: 4vw;
+    line-height: 2vw;
+}
+
+.ph1 {
+    width: 38vw;
+    height: 26vw;
+    position: relative;
+    top: -4vw;
+    left: 1vw;
+}
+
+.ph2 {
+    width: 46vw;
+    height: 25vw;
+    position: absolute;
+    top: 9vw;
+    left: 48.5vw;
+}
+
+#abb {
+    width: 49vw;
+    height: 34vw;
+    background-color: #C2D59D;
+    border-radius: 3vw;
+    position: relative;
+    left: 45.5vw;
+    bottom: 35vw;
+}
+
+.second {
+    color: #216037;
+    font-size: 1.5vw;
+    line-height: 2vw;
+    position: relative;
+    top: 17vw;
+    left: 3vw;
+}
+
+.map {
+    width: 90vw;
+    height: 56vw;
+    position: relative;
+    top: 18vw;
+    left: 4vw;
+}
+
+.map h1 {
+    font-size: 3.5vw;
+    color: #216037;
+    position: relative;
+    top: 0vw;
+}
+
+#map {
+    width: 62vw;
+    height: 49vw;
+    position: relative;
+    top: 2vw;
+}
+
+.map p {
+    font-size: 1.5vw;
+    color: #216037;
+    position: relative;
+    left: 73vw;
+    top: -12vw;
+    line-height: 2vw;
+}
+
+.liab2 {
+    width: 7vw;
+    height: 17vw;
+    position: relative;
+    top: -30vw;
+    left: 85vw;
+}
+
+/* shop */
+
+#shop {
+    width: 100vw;
+    height: 71vw;
+    overflow-x: hidden;
+    display: block;
+    background-color: #EFEDE5;
+    font-family: "Fugue";
+}
+
+.item {
+    width: 30vw;
+    height: 26vw;
+}
+
+.car {
+    width: 3.4vw;
+    height: 3vw;
+}
+
+.shop1 {
+    display: block;
+    width: 100vw;
+    height: 7vw;
+    position: relative;
+    top: 7vw;
+    background-color: #C2D59D;
+}
+
+.shop1 h1 {
+    font-size: 3.5vw;
+    position: relative;
+    top: 1.5vw;
+    left: 3vw;
+    color: #216037;
+}
+
+.cart__im {
+    width: 5.5vw;
+    height: 4.7vw;
+    position: relative;
+    left: 89vw;
+    bottom: 2.5vw;
+}
+
+.blok1 {
+    display: block;
+    background-color: #EFEDE5;
+    width: 30vw;
+    height: 26vw;
+    position: absolute;
+    top: 15vw;
+    left: 4vw;
+}
+
+#sh1 {
+    color: #216037;
+    font-size: 1.5vw;
+    position: absolute;
+    top: 21.7vw;
+    left: 1.5vw;
+}
+
+#pr1 {
+    color: #216037;
+    font-size: 1.5vw;
+    position: absolute;
+    top: 21.7vw;
+    left: 17vw;
+}
+
+#crt1 {
+    position: absolute;
+    top: 21vw;
+    left: 24vw;
+}
+
+.blok2 {
+    display: block;
+    background-color: #EFEDE5;
+    width: 30vw;
+    height: 26vw;
+    position: absolute;
+    top: 15vw;
+    left: 35.5vw;
+}
+
+#sh2 {
+    color: #216037;
+    font-size: 1.5vw;
+    position: absolute;
+    top: 21.7vw;
+    left: 1.5vw;
+}
+
+#pr2 {
+    color: #216037;
+    font-size: 1.5vw;
+    position: absolute;
+    top: 21.7vw;
+    left: 17vw;
+}
+
+#crt2 {
+    position: absolute;
+    top: 21vw;
+    left: 24vw;
+}
+
+.blok3 {
+    display: block;
+    background-color: #EFEDE5;
+    width: 30vw;
+    height: 26vw;
+    position: absolute;
+    top: 15vw;
+    left: 67vw;
+}
+
+#sh3 {
+    color: #216037;
+    font-size: 1.5vw;
+    position: absolute;
+    top: 21.7vw;
+    left: 1.5vw;
+}
+
+#pr3 {
+    color: #216037;
+    font-size: 1.5vw;
+    position: absolute;
+    top: 21.7vw;
+    left: 17vw;
+}
+
+#crt3 {
+    position: absolute;
+    top: 21vw;
+    left: 24vw;
+}
+
+.blok4 {
+    display: block;
+    background-color: #EFEDE5;
+    width: 30vw;
+    height: 26vw;
+    position: absolute;
+    top: 42vw;
+    left: 4vw;
+}
+
+#sh4 {
+    color: #216037;
+    font-size: 1.5vw;
+    position: absolute;
+    top: 21.7vw;
+    left: 1.5vw;
+}
+
+#pr4 {
+    color: #216037;
+    font-size: 1.5vw;
+    position: absolute;
+    top: 21.7vw;
+    left: 17vw;
+}
+
+#crt4 {
+    position: absolute;
+    top: 21vw;
+    left: 24vw;
+}
+
+.blok5 {
+    display: block;
+    background-color: #EFEDE5;
+    width: 30vw;
+    height: 26vw;
+    position: absolute;
+    top: 42vw;
+    left: 35.5vw;
+}
+
+#sh5 {
+    color: #216037;
+    font-size: 1.5vw;
+    position: absolute;
+    top: 21.7vw;
+    left: 1.5vw;
+}
+
+#pr5 {
+    color: #216037;
+    font-size: 1.5vw;
+    position: absolute;
+    top: 21.7vw;
+    left: 17vw;
+}
+
+#crt5 {
+    position: absolute;
+    top: 21vw;
+    left: 24vw;
+}
+
+.blok6 {
+    display: block;
+    background-color: #EFEDE5;
+    width: 30vw;
+    height: 26vw;
+    position: absolute;
+    top: 42vw;
+    left: 67vw;
+}
+
+#sh6 {
+    color: #216037;
+    font-size: 1.5vw;
+    position: absolute;
+    top: 21.7vw;
+    left: 1.5vw;
+}
+
+#pr6 {
+    color: #216037;
+    font-size: 1.5vw;
+    position: absolute;
+    top: 21.7vw;
+    left: 17vw;
+}
+
+#crt6 {
+    position: absolute;
+    top: 21vw;
+    left: 24vw;
+}
+
+
+
+/* booking */
+
+#booking {
+        width: 100vw;
+        height: 71vw;
+        overflow-x: hidden;
+        display: block;
+        background-color: #EFEDE5;
+        font-family: "Fugue";
+}
+
+.bookit {
+    position: relative;
+    top: 10vw;
+    left: 2vw;
+}
+
+select {
+    display: block;
+    width: 54vw;
+    height: 5.5vw;
+    border-radius: 3vw;
+    background-color: #C2D59D;
+    color: #216037;
+    font-family: "Fugue";
+    font-size: 2.5vw;
+    border: none;
+    padding: 0 2vw;
+}
+
+input {
+    display: block;
+    background-color: #EFEDE5;
+    font-family: "Fugue";
+    font-size: 2.5vw;
+    padding: 0 2vw;
+    border: 0.4vw solid #C2D59D;
+    border-radius: 3vw;
+    color: #216037;
+}
+
+.fio {
+    position: relative;
+    top: 1vw;
+    width: 49vw;
+    height: 5vw;
+}
+
+.number {
+    position: relative;
+    top: 2vw;
+    width: 49vw;
+    height: 5vw;
+}
+
+.mail {
+    position: relative;
+    top: 3vw;
+    width: 49vw;
+    height: 5vw;
+}
+
+.arrive {
+    position: relative;
+    top: 4vw;
+    width: 21.5vw;
+    height: 5vw;
+}
+
+.away {
+    position: relative;
+    top: -1.7vw;
+    left: 27.5vw;
+    width: 21.5vw;
+    height: 5vw;
+}
+
+.bookit button {
+    display: block;
+    position: relative;
+    top: 3vw;
+    font-family: "Fugue";
+    font-size: 2.5vw;
+    padding: 0 2vw;
+    border: 0.4vw solid #C2D59D;
+    border-radius: 3vw;
+    background-color: #C2D59D;
+    color: #216037;
+    width: 35vw;
+    height: 6vw;
+}
+
+/* success booking */
+
+#success {
+    width: 100vw;
+    height: 71vw;
+    overflow-x: hidden;
+    display: block;
+    background-color: #EFEDE5;
+    font-family: "Fugue";
+}
+
+.s1 {
+    position: relative;
+    top: 10vw;
+    justify-content: center;
+}
+
+.s1 img {
+    width: 17vw;
+    height: 13vw;
+    position: relative;
+    top: 2vw;
+    left: 40vw;
+}
+
+.s1 p {
+    font-size: 2.5vw;
+    color: #216037;
+    line-height: 3vw;
+    position: relative;
+    top: 4vw;
+    text-align: center;
+}
+
+.s1 button {
+    display: block;
+    position: relative;
+    top: 7vw;
+    left: 26vw;
+    font-family: "Fugue";
+    font-size: 2.5vw;
+    border: none;
+    border-radius: 3vw;
+    background-color: #C2D59D;
+    color: #216037;
+    width: 45vw;
+    height: 6vw;
+}
+
+
+/* success shopping */
+
+#success2 {
+    width: 100vw;
+    height: 71vw;
+    overflow-x: hidden;
+    display: block;
+    background-color: #EFEDE5;
+    font-family: "Fugue";
+}
+
+.s2 {
+    position: relative;
+    top: 10vw;
+    justify-content: center;
+}
+
+.s2 img {
+    width: 17vw;
+    height: 13vw;
+    position: relative;
+    top: 2vw;
+    left: 40vw;
+}
+
+.s2 p {
+    font-size: 2.5vw;
+    color: #216037;
+    line-height: 3vw;
+    position: relative;
+    top: 4vw;
+    text-align: center;
+}
+
+.s2 button {
+    display: block;
+    position: relative;
+    top: 7vw;
+    left: 26vw;
+    font-family: "Fugue";
+    font-size: 2.5vw;
+    border: none;
+    border-radius: 3vw;
+    background-color: #C2D59D;
+    color: #216037;
+    width: 45vw;
+    height: 6vw;
+}
+
+/* 404 */
+
+#error404 {
+    width: 100vw;
+    height: 71vw;
+    overflow-x: hidden;
+    display: block;
+    background-color: #EFEDE5;
+    font-family: "Fugue";
+}
+
+.error {
+    position: relative;
+    top: 10vw;
+    justify-content: center;
+}
+
+.error h1{
+    color: #216037;
+    font-size: 12vw;
+    position: relative;
+    top: 2vw;
+    left: 40vw;
+}
+
+.error p {
+    font-size: 2.5vw;
+    color: #216037;
+    line-height: 3vw;
+    position: relative;
+    top: 4vw;
+    text-align: center;
+}
+
+.error button {
+    display: block;
+    position: relative;
+    top: 7vw;
+    left: 27vw;
+    font-family: "Fugue";
+    font-size: 2.5vw;
+    border: none;
+    border-radius: 3vw;
+    background-color: #C2D59D;
+    color: #216037;
+    width: 45vw;
+    height: 6vw;
+}
+
+/* shopping */
+
+#shopping {
+    width: 100vw;
+    height: 71vw;
+    overflow-x: hidden;
+    display: block;
+    background-color: #EFEDE5;
+    font-family: "Fugue";
+}
+
+.shosh {
+    display: block;
+    width: 49vw;
+    height: 5vw;
+    background-color: #C2D59D;
+    border-radius: 3vw;
+    font-family: "Fugue";
+    font-size: 2.5vw;
+    color: #216037;
+    position: relative;
+    top: 9vw;
+    left: 2vw;
+}
+
+.shosh h1 {
+    position: relative;
+    left: 2vw;
+    top: 1vw;
+}
+
+.shopit {
+position: relative;
+top: 12vw;
+left: 2vw;
+}
+
+.shopit input {
+display: block;
+background-color: #EFEDE5;
+font-family: "Fugue";
+font-size: 2.5vw;
+padding: 0 2vw;
+border: 0.4vw solid #C2D59D;
+border-radius: 3vw;
+color: #216037;
+}
+
+.fio1 {
+position: relative;
+top: 1vw;
+width: 49vw;
+height: 5vw;
+}
+
+.number1 {
+position: relative;
+top: 2vw;
+width: 49vw;
+height: 5vw;
+}
+
+.mail1 {
+position: relative;
+top: 3vw;
+width: 49vw;
+height: 5vw;
+}
+
+.where1 {
+position: relative;
+top: 4vw;
+width: 49vw;
+height: 5vw;
+}
+
+.shopit button {
+display: block;
+position: relative;
+top: 10vw;
+font-family: "Fugue";
+font-size: 2.5vw;
+border-radius: 3vw;
+border: none;
+background-color: #C2D59D;
+color: #216037;
+width: 35vw;
+height: 6vw;
+}

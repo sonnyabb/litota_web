@@ -1,0 +1,212 @@
+#eventt {
+    width: 100vw;
+    height: 71vw;
+    overflow-x: hidden;
+    display: block;
+    background-color: #EFEDE5;
+    font-family: "Fugue";
+}
+
+
+.even {
+    display: block;
+    width: 100vw;
+    height: 7vw;
+    position: relative;
+    top: 7vw;
+    background-color: #C2D59D;
+}
+
+.even h1 {
+    font-size: 3.5vw;
+    position: relative;
+    top: 1.5vw;
+    left: 5vw;
+    color: #216037;
+}
+
+/* 12 марта */
+
+.eve1 {
+    display: block;
+    width: 30vw;
+    height: 5.5vw;
+    background-color: #C2D59D;
+    border-radius: 3vw;
+    border: none;
+    position: relative;
+    top: 10vw;
+    left: 3vw;
+    text-align: center;
+}
+
+.eve1 p {
+    font-size: 2.5vw;
+    color: #216037;
+    position: relative;
+    top: 1.5vw;
+}
+
+.ev1 img {
+    width: 58vw;
+    height: 49vw;
+    position: absolute;
+    left: 38vw;
+    top: 17vw;
+    display: none;
+}
+
+/* 13 мая */
+
+.eve2 {
+    display: block;
+    width: 30vw;
+    height: 5.5vw;
+    background-color: #C2D59D;
+    border-radius: 3vw;
+    border: none;
+    position: relative;
+    top: 11vw;
+    left: 3vw;
+    text-align: center;
+}
+
+.eve2 p {
+    font-size: 2.5vw;
+    color: #216037;
+    position: relative;
+    top: 1.5vw;
+}
+
+.ev2 img {
+    width: 58vw;
+    height: 49vw;
+    position: absolute;
+    left: 38vw;
+    top: 17vw;
+    display: none;
+}
+
+/* 8 июня */
+
+.eve3 {
+    display: block;
+    width: 30vw;
+    height: 5.5vw;
+    background-color: #C2D59D;
+    border-radius: 3vw;
+    border: none;
+    position: relative;
+    top: 12vw;
+    left: 3vw;
+    text-align: center;
+}
+
+.eve3 p {
+    font-size: 2.5vw;
+    color: #216037;
+    position: relative;
+    top: 1.5vw;
+}
+
+.ev3 img {
+    width: 58vw;
+    height: 49vw;
+    position: absolute;
+    left: 38vw;
+    top: 17vw;
+    display: none;
+}
+
+/* 17 июля*/
+
+.eve4 {
+    display: block;
+    width: 30vw;
+    height: 5.5vw;
+    background-color: #C2D59D;
+    border-radius: 3vw;
+    border: none;
+    position: relative;
+    top: 13vw;
+    left: 3vw;
+    text-align: center;
+}
+
+.eve4 p {
+    font-size: 2.5vw;
+    color: #216037;
+    position: relative;
+    top: 1.5vw;
+}
+
+.ev4 img {
+    width: 58vw;
+    height: 49vw;
+    position: absolute;
+    left: 38vw;
+    top: 17vw;
+    display: none;
+}
+
+/* 22 июля */
+
+.eve5 {
+    display: block;
+    width: 30vw;
+    height: 5.5vw;
+    background-color: #C2D59D;
+    border-radius: 3vw;
+    border: none;
+    position: relative;
+    top: 14vw;
+    left: 3vw;
+    text-align: center;
+}
+
+.eve5 p {
+    font-size: 2.5vw;
+    color: #216037;
+    position: relative;
+    top: 1.5vw;
+}
+
+.ev5 img {
+    width: 58vw;
+    height: 49vw;
+    position: absolute;
+    left: 38vw;
+    top: 17vw;
+    display: none;
+}
+
+/* 28 августа */
+
+.eve6 {
+    display: block;
+    width: 30vw;
+    height: 5.5vw;
+    background-color: #C2D59D;
+    border-radius: 3vw;
+    border: none;
+    position: relative;
+    top: 15vw;
+    left: 3vw;
+    text-align: center;
+}
+
+.eve6 p {
+    font-size: 2.5vw;
+    color: #216037;
+    position: relative;
+    top: 1.5vw;
+}
+
+.ev6 img {
+    width: 58vw;
+    height: 49vw;
+    position: absolute;
+    left: 38vw;
+    top: 17vw;
+    display: none;
+}
