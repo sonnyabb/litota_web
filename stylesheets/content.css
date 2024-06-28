@@ -183,7 +183,7 @@ a {
 .foot {
     position: absolute;
     background-color: #C2D59D;
-    top: 205vw;
+    top: 60vw;
     height: 10vw;
     width: 110vw;
     align-items: center;
@@ -193,8 +193,7 @@ a {
     color: #EFEDE5;
     text-align: left;
     font-family: "Fugue;
-    font-size: 3vw;
-    font-weight: 500;
+    font-size: 2.5vw;
     position: absolute;
     left: 3vw;
     top: 2vw;
@@ -204,8 +203,8 @@ a {
     position: absolute;
     top: 2vw;
     left: 78vw;
-    height: 6vw;
-    width: 19vw;
+    height: 4vw;
+    width: 12vw;
 }
 
 
