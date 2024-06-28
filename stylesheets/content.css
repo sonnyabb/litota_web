@@ -183,9 +183,9 @@ a {
 .foot {
     position: absolute;
     background-color: #C2D59D;
-    top: 60vw;
+    top: 40vw;
     height: 10vw;
-    width: 110vw;
+    width: 100vw;
     align-items: center;
 }
 
