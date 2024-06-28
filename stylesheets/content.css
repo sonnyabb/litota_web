@@ -183,8 +183,8 @@ a {
 .foot {
     position: relative;
     background-color: #C2D59D;
-    top: 10vw;
-    height: 7vw;
+    top: 18vw;
+    height: 12vw;
     width: 100vw;
     align-items: center;
 }
@@ -192,19 +192,19 @@ a {
 .foot p {
     color: #EFEDE5;
     text-align: left;
-    font-family: "Fugue;
+    font-family: "Fugue";
     font-size: 2.5vw;
     position: relative;
     left: 3vw;
-    top: 2vw;
+    top: 4vw;
 }
 
 .foot img {
     position: relative;
-    top: 2vw;
-    left: 78vw;
-    height: 4vw;
-    width: 11vw;
+    top: -0.7vw;
+    left: 80vw;
+    height: 5vw;
+    width: 13vw;
 }
 
 
