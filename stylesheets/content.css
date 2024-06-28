@@ -194,13 +194,13 @@ a {
     text-align: left;
     font-family: "Fugue;
     font-size: 2.5vw;
-    position: absolute;
+    position: relative;
     left: 3vw;
     top: 2vw;
 }
 
 .foot img {
-    position: absolute;
+    position: relative;
     top: 2vw;
     left: 78vw;
     height: 4vw;
