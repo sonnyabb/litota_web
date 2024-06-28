@@ -178,6 +178,36 @@ a {
     color: #EFEDE5;
 }
 
+/* футер */
+
+.foot {
+    position: absolute;
+    background-color: #C2D59D;
+    top: 205vw;
+    height: 10vw;
+    width: 110vw;
+    align-items: center;
+}
+
+.foot p {
+    color: #EFEDE5;
+    text-align: left;
+    font-family: "Fugue;
+    font-size: 3vw;
+    font-weight: 500;
+    position: absolute;
+    left: 3vw;
+    top: 2vw;
+}
+
+.foot img {
+    position: absolute;
+    top: 2vw;
+    left: 78vw;
+    height: 6vw;
+    width: 19vw;
+}
+
 
 /* rooms */
 
