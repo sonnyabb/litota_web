@@ -181,9 +181,9 @@ a {
 /* футер */
 
 .foot {
-    position: absolute;
+    position: relative;
     background-color: #C2D59D;
-    top: 40vw;
+    top: 10vw;
     height: 7vw;
     width: 100vw;
     align-items: center;
